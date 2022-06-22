@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.27.2",
     "eslint": "^8.16.0",
     "miragejs": "^0.1.45",
     "prettier": "^2.6.2",
